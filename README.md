@@ -1,1 +1,3 @@
-# big_data_scaling_project
+# DecisionTree_MapReduce 
+## Big Data Scaling
+### Donald Kane, Jonathan Srinivasan, Dakota Wilson
